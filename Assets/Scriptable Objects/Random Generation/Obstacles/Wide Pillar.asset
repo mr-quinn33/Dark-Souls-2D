@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1539fd60d0cf8546a1c63db03d62a18, type: 3}
+  m_Name: Wide Pillar
+  m_EditorClassIdentifier: 
+  tilemapLayer: {fileID: 11400000, guid: 0536d94762eb94644b5f33fb4a69a4b0, type: 2}
+  size: {x: 2, y: 5}
+  thickness: 2
+  tileBases:
+  - {fileID: 11400000, guid: 73c50952ff91363428c339f1cc57c54a, type: 2}
+  - {fileID: 11400000, guid: 27e922b42a8e7ac49bb81f9c0d52dc3f, type: 2}
+  - {fileID: 11400000, guid: aed2936ac64b20c409e7a5d4c77b250a, type: 2}
+  - {fileID: 11400000, guid: 14e4ba8f0e179e941807f7098853b099, type: 2}
+  - {fileID: 11400000, guid: 963e8ebaaa2423a41aa91e8509e36403, type: 2}
+  - {fileID: 11400000, guid: 832267e2cbece7745bd11516c56a7231, type: 2}
+  - {fileID: 11400000, guid: 3ac644f0a00b93243bd08af409a65ffe, type: 2}
+  - {fileID: 11400000, guid: 310e33a1aef9895448ddd0a63d856a70, type: 2}
+  - {fileID: 11400000, guid: 538f2c8ae92579342aad73cf1655ece5, type: 2}
+  - {fileID: 11400000, guid: 7e0f9b5c142e7f84d9f591b737ef251b, type: 2}

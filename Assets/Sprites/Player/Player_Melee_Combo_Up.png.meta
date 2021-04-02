@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 706d9f52e53bc1e4285c07476dc9d157
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 536610246938519303
+    second: Player_Melee_Combo_Up_0
+  - first:
+      213: -5332018087422884321
+    second: Player_Melee_Combo_Up_1
+  - first:
+      213: 4010587642629096998
+    second: Player_Melee_Combo_Up_2
+  - first:
+      213: 1438155133930610138
+    second: Player_Melee_Combo_Up_3
+  - first:
+      213: 507737356887338806
+    second: Player_Melee_Combo_Up_4
+  - first:
+      213: 703079453206157200
+    second: Player_Melee_Combo_Up_5
+  - first:
+      213: -6187975957897539509
+    second: Player_Melee_Combo_Up_6
+  - first:
+      213: -1807803110867421498
+    second: Player_Melee_Combo_Up_7
+  - first:
+      213: -4521761691138937868
+    second: Player_Melee_Combo_Up_8
+  - first:
+      213: 3586051168443536883
+    second: Player_Melee_Combo_Up_9
+  - first:
+      213: 8277255788056189701
+    second: Player_Melee_Combo_Up_10
+  - first:
+      213: 6176963019612987042
+    second: Player_Melee_Combo_Up_11
+  - first:
+      213: -7310796460609962886
+    second: Player_Melee_Combo_Up_12
+  - first:
+      213: 8468420353279651105
+    second: Player_Melee_Combo_Up_13
+  - first:
+      213: -4053458580730754206
+    second: Player_Melee_Combo_Up_14
+  - first:
+      213: -3960332201662745543
+    second: Player_Melee_Combo_Up_15
+  - first:
+      213: -399954430478214543
+    second: Player_Melee_Combo_Up_16
+  - first:
+      213: 3563919981989804885
+    second: Player_Melee_Combo_Up_17
+  - first:
+      213: 3447098060785807181
+    second: Player_Melee_Combo_Up_18
+  - first:
+      213: -1815855204610846965
+    second: Player_Melee_Combo_Up_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_4
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f277c9f68db0700800000000000000
+      internalID: 507737356887338806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_5
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0979a31a907d1c900800000000000000
+      internalID: 703079453206157200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_6
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b401cdec6a4ef1aa0800000000000000
+      internalID: -6187975957897539509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_7
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6b6e816a469e6e0800000000000000
+      internalID: -1807803110867421498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_8
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba1b003b97f31c0800000000000000
+      internalID: -4521761691138937868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_9
+      rect:
+        serializedVersion: 2
+        x: 7110
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f59379b98634c130800000000000000
+      internalID: 3586051168443536883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_10
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b9222d848bed270800000000000000
+      internalID: 8277255788056189701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_11
+      rect:
+        serializedVersion: 2
+        x: 8690
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae91cea32bf8b550800000000000000
+      internalID: 6176963019612987042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_12
+      rect:
+        serializedVersion: 2
+        x: 9480
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf8247a55da8a90800000000000000
+      internalID: -7310796460609962886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_13
+      rect:
+        serializedVersion: 2
+        x: 10270
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12debe5917fd58570800000000000000
+      internalID: 8468420353279651105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_14
+      rect:
+        serializedVersion: 2
+        x: 11060
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bc8cf95e83fb7c0800000000000000
+      internalID: -4053458580730754206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Combo_Up_15
+      rect:
+        serializedVersion: 2
+        x: 11850
+        y: 0
+        width: 790
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934f95768d21a09c0800000000000000
+      internalID: -3960332201662745543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

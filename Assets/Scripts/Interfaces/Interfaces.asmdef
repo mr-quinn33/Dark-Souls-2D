@@ -1,0 +1,15 @@
+{
+    "name": "Interfaces",
+    "references": [
+        "GUID:5088166d8755a004f8355d312c65f985"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

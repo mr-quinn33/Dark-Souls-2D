@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 6c7f69de1ceea6344ab40c025856921f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7344690377441521605
+    second: Player_Melee_Attack_Down_0
+  - first:
+      213: -7077174950846102344
+    second: Player_Melee_Attack_Down_1
+  - first:
+      213: 2081135785047866915
+    second: Player_Melee_Attack_Down_2
+  - first:
+      213: -7626110242319022335
+    second: Player_Melee_Attack_Down_3
+  - first:
+      213: 1869097136264234227
+    second: Player_Melee_Attack_Down_4
+  - first:
+      213: 5741908682043165236
+    second: Player_Melee_Attack_Down_5
+  - first:
+      213: -247298041058503951
+    second: Player_Melee_Attack_Down_6
+  - first:
+      213: 6883106458409118666
+    second: Player_Melee_Attack_Down_7
+  - first:
+      213: 1854845444786378278
+    second: Player_Melee_Attack_Down_8
+  - first:
+      213: 6571303172242681674
+    second: Player_Melee_Attack_Down_9
+  - first:
+      213: -6385165959702887113
+    second: Player_Melee_Attack_Down_10
+  - first:
+      213: 450221994886719462
+    second: Player_Melee_Attack_Down_11
+  - first:
+      213: -9039734907862461255
+    second: Player_Melee_Attack_Down_12
+  - first:
+      213: 3176927465164137462
+    second: Player_Melee_Attack_Down_13
+  - first:
+      213: -1519206078621632623
+    second: Player_Melee_Attack_Down_14
+  - first:
+      213: 3484469502095305106
+    second: Player_Melee_Attack_Down_15
+  - first:
+      213: -4200543184919345119
+    second: Player_Melee_Attack_Down_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Melee_Attack_Down_4
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 0
+        width: 610
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4cab941fd50f910800000000000000
+      internalID: 1869097136264234227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Attack_Down_5
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 0
+        width: 610
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a0aed368b5faf40800000000000000
+      internalID: 5741908682043165236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Attack_Down_6
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 0
+        width: 610
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2de0dedbb619cf0800000000000000
+      internalID: -247298041058503951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Attack_Down_7
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 0
+        width: 610
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb2cac0bd4b58f50800000000000000
+      internalID: 6883106458409118666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Attack_Down_8
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 0
+        width: 610
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265eb9ca1cbdb910800000000000000
+      internalID: 1854845444786378278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Attack_Down_9
+      rect:
+        serializedVersion: 2
+        x: 5490
+        y: 0
+        width: 610
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f2cec3b65f13b50800000000000000
+      internalID: 6571303172242681674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Attack_Down_10
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 0
+        width: 610
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7354ef3c3655367a0800000000000000
+      internalID: -6385165959702887113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Attack_Down_11
+      rect:
+        serializedVersion: 2
+        x: 6710
+        y: 0
+        width: 610
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e76a4bd4828f3600800000000000000
+      internalID: 450221994886719462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Melee_Attack_Down_12
+      rect:
+        serializedVersion: 2
+        x: 7320
+        y: 0
+        width: 610
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4d821fef86c8280800000000000000
+      internalID: -9039734907862461255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

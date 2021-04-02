@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: fd4bf561fd8b19e49b2a3b0e66a2a61e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8959349668261612741
+    second: Player_Damaged_Left_0
+  - first:
+      213: 1467396806204103841
+    second: Player_Damaged_Left_1
+  - first:
+      213: -6539592469403476657
+    second: Player_Damaged_Left_2
+  - first:
+      213: 3532938882694096849
+    second: Player_Damaged_Left_3
+  - first:
+      213: -4590563382659945690
+    second: Player_Damaged_Left_4
+  - first:
+      213: 2732050053160393866
+    second: Player_Damaged_Left_5
+  - first:
+      213: -4700330352519705398
+    second: Player_Damaged_Left_6
+  - first:
+      213: 1569655270000182569
+    second: Player_Damaged_Left_7
+  - first:
+      213: 4039987411513649314
+    second: Player_Damaged_Left_8
+  - first:
+      213: -343988356600487212
+    second: Player_Damaged_Left_9
+  - first:
+      213: 7684732922849907562
+    second: Player_Damaged_Left_10
+  - first:
+      213: 606107276331582972
+    second: Player_Damaged_Left_11
+  - first:
+      213: 7481817219148344843
+    second: Player_Damaged_Left_12
+  - first:
+      213: -799822104322486043
+    second: Player_Damaged_Left_13
+  - first:
+      213: 7674417384068523784
+    second: Player_Damaged_Left_14
+  - first:
+      213: 5548142711424506787
+    second: Player_Damaged_Left_15
+  - first:
+      213: 7096659596002203137
+    second: Player_Damaged_Left_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Damaged_Left_7
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 480
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9254e24d62988c510800000000000000
+      internalID: 1569655270000182569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Damaged_Left_8
+      rect:
+        serializedVersion: 2
+        x: 6381
+        y: 0
+        width: 459
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a82250652be01830800000000000000
+      internalID: 4039987411513649314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Damaged_Left_9
+      rect:
+        serializedVersion: 2
+        x: 7109
+        y: 0
+        width: 491
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d225f58968e93bf0800000000000000
+      internalID: -343988356600487212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Damaged_Left_10
+      rect:
+        serializedVersion: 2
+        x: 7842
+        y: 0
+        width: 518
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63d73cb0e7a5aa60800000000000000
+      internalID: 7684732922849907562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Damaged_Left_11
+      rect:
+        serializedVersion: 2
+        x: 8360
+        y: 0
+        width: 760
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf506854b53596800800000000000000
+      internalID: 606107276331582972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

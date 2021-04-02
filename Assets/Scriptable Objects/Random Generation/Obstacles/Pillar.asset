@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1539fd60d0cf8546a1c63db03d62a18, type: 3}
+  m_Name: Pillar
+  m_EditorClassIdentifier: 
+  tilemapLayer: {fileID: 11400000, guid: 0536d94762eb94644b5f33fb4a69a4b0, type: 2}
+  size: {x: 1, y: 5}
+  thickness: 1
+  tileBases:
+  - {fileID: 11400000, guid: e8d073530cbd3aa4da949c4f118b2b9f, type: 2}
+  - {fileID: 11400000, guid: b543c4e94bb858e4da008ea8aa10a528, type: 2}
+  - {fileID: 11400000, guid: bc41472843717204381a1afec0640d36, type: 2}
+  - {fileID: 11400000, guid: 442f5394504ee9847bc4f2bd1dc4471e, type: 2}
+  - {fileID: 11400000, guid: 92d95a8e9356a3149894587bcca8bf05, type: 2}

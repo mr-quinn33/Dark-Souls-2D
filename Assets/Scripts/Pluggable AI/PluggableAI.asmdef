@@ -1,0 +1,18 @@
+{
+    "name": "PluggableAI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5088166d8755a004f8355d312c65f985",
+        "GUID:1b4872c99ff2c6c40b12af877bf22c28",
+        "GUID:ee10e849078e3374abacb48681d7febd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

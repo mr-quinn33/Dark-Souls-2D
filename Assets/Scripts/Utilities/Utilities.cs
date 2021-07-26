@@ -74,7 +74,7 @@ namespace Assets.Scripts.Utilities
 
         public static IEnumerator Concat(params IEnumerator[] routines)
         {
-            yield return from IEnumerator routine in routines select routine;
+            yield return routines;
         }
     }
 

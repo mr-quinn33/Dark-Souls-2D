@@ -153,7 +153,10 @@ namespace Assets.Scripts.RandomGeneration
                     {
                         int xmax = i + obstacle.size.x, ymax = j + obstacle.size.y;
                         LinkedList<Vector3Int> positions = new LinkedList<Vector3Int>();
-                        obstacle.tileBases = obstacle.tileBases.OrderBy(tilebase => int.Parse(tilebase.name.Substring(tilebase.name.LastIndexOf('_') + 1))).ToList();
+                        if (!obstacle.IsSorted)
+                        {
+                            obstacle.Sort();
+                        }
                         for (int y = j; y < ymax; y++)
                         {
                             for (int x = xmax - 1; x >= i; x--)
